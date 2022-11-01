@@ -8,4 +8,4 @@ I couldn't understand how convolutions could filter image features using just a 
 
 By Michael Plotke - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24288958
 
-Playing around with different kernels and images definetely helped!
+I used numpy arrays, simple math and some images (real and created from 0s and 1s) to visualize the process, which definetely helped!
