@@ -1,0 +1,11 @@
+# Visualizing-convolutions 
+
+I recently started learning about *convolutional neural networks* and even though I could create one in [tensorflow](https://www.tensorflow.org/api_docs/python/tf/keras/layers/Conv2D), I was havaing a hard time understanding what convolutions are and what is going on under the hood. 
+I couldn't understand how convolutions could filter image features using just a dot product:
+
+
+![image](https://user-images.githubusercontent.com/60479692/199134680-32d71c97-59f6-49d1-ae61-43676fb4d231.png "found this on Wikipedia")
+
+By Michael Plotke - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24288958
+
+Playing around with different kernels and images definetely helped!
