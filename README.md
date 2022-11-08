@@ -4,7 +4,7 @@ I recently started learning about *convolutional neural networks* and even thoug
 I couldn't understand how convolutions could filter image features using just a dot product:
 
 
-![image](https://user-images.githubusercontent.com/60479692/199134680-32d71c97-59f6-49d1-ae61-43676fb4d231.png "found this on Wikipedia")
+![image](https://upload.wikimedia.org/wikipedia/commons/1/19/2D_Convolution_Animation.gif "found this on Wikipedia")
 
 By Michael Plotke - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=24288958
 
